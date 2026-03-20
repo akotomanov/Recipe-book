@@ -25,7 +25,7 @@ body {
   font-family: var(--font-family-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #ffffff;
+  background: red;
   color: var(--color-secondary-dark-slate);
 }
 
